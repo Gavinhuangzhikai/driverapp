@@ -7,6 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+static NSString *appKey = @"AppKey copied from JiGuang Portal application";
+static NSString *channel = @"Publish channel";
+static BOOL isProduction = FALSE;
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 

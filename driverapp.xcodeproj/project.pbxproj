@@ -26,6 +26,29 @@
 		0C1E4B6D1F015FC500B50C65 /* DRMoreViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C1E4B6C1F015FC500B50C65 /* DRMoreViewController.m */; };
 		0C1E4B701F015FD100B50C65 /* DRMyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C1E4B6F1F015FD100B50C65 /* DRMyViewController.m */; };
 		0C1E4B771F01607700B50C65 /* DRLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C1E4B761F01607700B50C65 /* DRLoginViewController.m */; };
+		0C7BE7B61F02ABA3002D9C93 /* jcore-ios-1.1.3.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7B31F02ABA3002D9C93 /* jcore-ios-1.1.3.a */; };
+		0C7BE7B71F02ABA3002D9C93 /* jpush-ios-3.0.5.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7B41F02ABA3002D9C93 /* jpush-ios-3.0.5.a */; };
+		0C7BE7B91F02ACCB002D9C93 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7B81F02ACCB002D9C93 /* CFNetwork.framework */; };
+		0C7BE7BB1F02ACD2002D9C93 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7BA1F02ACD2002D9C93 /* CoreFoundation.framework */; };
+		0C7BE7BD1F02ACD9002D9C93 /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7BC1F02ACD9002D9C93 /* CoreTelephony.framework */; };
+		0C7BE7BF1F02ACEA002D9C93 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7BE1F02ACEA002D9C93 /* SystemConfiguration.framework */; };
+		0C7BE7C11F02ACF3002D9C93 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7C01F02ACF3002D9C93 /* CoreGraphics.framework */; };
+		0C7BE7C31F02ACF9002D9C93 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7C21F02ACF9002D9C93 /* Foundation.framework */; };
+		0C7BE7C51F02ACFE002D9C93 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7C41F02ACFE002D9C93 /* UIKit.framework */; };
+		0C7BE7C71F02AD03002D9C93 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7C61F02AD03002D9C93 /* Security.framework */; };
+		0C7BE7C91F02AD0A002D9C93 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7C81F02AD0A002D9C93 /* libz.tbd */; };
+		0C7BE7CD1F02AD17002D9C93 /* UserNotifications.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7CC1F02AD17002D9C93 /* UserNotifications.framework */; };
+		0C7BE7CF1F02AD1F002D9C93 /* libresolv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7CE1F02AD1F002D9C93 /* libresolv.tbd */; };
+		0C7BE7D31F02B1DB002D9C93 /* MAMapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7D01F02B1DB002D9C93 /* MAMapKit.framework */; };
+		0C7BE7D41F02B1DB002D9C93 /* AMapFoundationKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7D11F02B1DB002D9C93 /* AMapFoundationKit.framework */; };
+		0C7BE7D51F02B1DB002D9C93 /* AMapSearchKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7D21F02B1DB002D9C93 /* AMapSearchKit.framework */; };
+		0C7BE7D71F02B273002D9C93 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7D61F02B273002D9C93 /* QuartzCore.framework */; };
+		0C7BE7D91F02B280002D9C93 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7D81F02B280002D9C93 /* CoreLocation.framework */; };
+		0C7BE7DA1F02B29E002D9C93 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7CA1F02AD0F002D9C93 /* AdSupport.framework */; };
+		0C7BE7DC1F02B2A4002D9C93 /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7DB1F02B2A4002D9C93 /* JavaScriptCore.framework */; };
+		0C7BE7DE1F02B2B7002D9C93 /* libstdc++.6.0.9.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7DD1F02B2B7002D9C93 /* libstdc++.6.0.9.tbd */; };
+		0C7BE7E01F02B2C3002D9C93 /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7DF1F02B2C3002D9C93 /* libc++.tbd */; };
+		0C7BE7E21F02B307002D9C93 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7BE7E11F02B307002D9C93 /* GLKit.framework */; };
 		9D9ED8ECADE74713C0CEE953 /* Pods_driverapp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A06B8576AF4C251D28F6204 /* Pods_driverapp.framework */; };
 /* End PBXBuildFile section */
 
@@ -67,6 +90,30 @@
 		0C1E4B6F1F015FD100B50C65 /* DRMyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DRMyViewController.m; sourceTree = "<group>"; };
 		0C1E4B751F01607700B50C65 /* DRLoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DRLoginViewController.h; sourceTree = "<group>"; };
 		0C1E4B761F01607700B50C65 /* DRLoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DRLoginViewController.m; sourceTree = "<group>"; };
+		0C7BE7B31F02ABA3002D9C93 /* jcore-ios-1.1.3.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "jcore-ios-1.1.3.a"; sourceTree = "<group>"; };
+		0C7BE7B41F02ABA3002D9C93 /* jpush-ios-3.0.5.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "jpush-ios-3.0.5.a"; sourceTree = "<group>"; };
+		0C7BE7B51F02ABA3002D9C93 /* JPUSHService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JPUSHService.h; sourceTree = "<group>"; };
+		0C7BE7B81F02ACCB002D9C93 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		0C7BE7BA1F02ACD2002D9C93 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
+		0C7BE7BC1F02ACD9002D9C93 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
+		0C7BE7BE1F02ACEA002D9C93 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		0C7BE7C01F02ACF3002D9C93 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		0C7BE7C21F02ACF9002D9C93 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		0C7BE7C41F02ACFE002D9C93 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		0C7BE7C61F02AD03002D9C93 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		0C7BE7C81F02AD0A002D9C93 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
+		0C7BE7CA1F02AD0F002D9C93 /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
+		0C7BE7CC1F02AD17002D9C93 /* UserNotifications.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UserNotifications.framework; path = System/Library/Frameworks/UserNotifications.framework; sourceTree = SDKROOT; };
+		0C7BE7CE1F02AD1F002D9C93 /* libresolv.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libresolv.tbd; path = usr/lib/libresolv.tbd; sourceTree = SDKROOT; };
+		0C7BE7D01F02B1DB002D9C93 /* MAMapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MAMapKit.framework; sourceTree = "<group>"; };
+		0C7BE7D11F02B1DB002D9C93 /* AMapFoundationKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AMapFoundationKit.framework; sourceTree = "<group>"; };
+		0C7BE7D21F02B1DB002D9C93 /* AMapSearchKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AMapSearchKit.framework; sourceTree = "<group>"; };
+		0C7BE7D61F02B273002D9C93 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		0C7BE7D81F02B280002D9C93 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		0C7BE7DB1F02B2A4002D9C93 /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		0C7BE7DD1F02B2B7002D9C93 /* libstdc++.6.0.9.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libstdc++.6.0.9.tbd"; path = "usr/lib/libstdc++.6.0.9.tbd"; sourceTree = SDKROOT; };
+		0C7BE7DF1F02B2C3002D9C93 /* libc++.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libc++.tbd"; path = "usr/lib/libc++.tbd"; sourceTree = SDKROOT; };
+		0C7BE7E11F02B307002D9C93 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
 		24C40752A6431D6DE05DEA2A /* Pods-driverapp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-driverapp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-driverapp/Pods-driverapp.debug.xcconfig"; sourceTree = "<group>"; };
 		7A06B8576AF4C251D28F6204 /* Pods_driverapp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_driverapp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACB4690C9AD18A11AA7E32D3 /* Pods-driverapp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-driverapp.release.xcconfig"; path = "Pods/Target Support Files/Pods-driverapp/Pods-driverapp.release.xcconfig"; sourceTree = "<group>"; };
@@ -77,7 +124,30 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C7BE7E21F02B307002D9C93 /* GLKit.framework in Frameworks */,
+				0C7BE7E01F02B2C3002D9C93 /* libc++.tbd in Frameworks */,
+				0C7BE7DE1F02B2B7002D9C93 /* libstdc++.6.0.9.tbd in Frameworks */,
+				0C7BE7C91F02AD0A002D9C93 /* libz.tbd in Frameworks */,
+				0C7BE7DC1F02B2A4002D9C93 /* JavaScriptCore.framework in Frameworks */,
+				0C7BE7DA1F02B29E002D9C93 /* AdSupport.framework in Frameworks */,
+				0C7BE7C71F02AD03002D9C93 /* Security.framework in Frameworks */,
+				0C7BE7BF1F02ACEA002D9C93 /* SystemConfiguration.framework in Frameworks */,
+				0C7BE7BD1F02ACD9002D9C93 /* CoreTelephony.framework in Frameworks */,
+				0C7BE7D91F02B280002D9C93 /* CoreLocation.framework in Frameworks */,
+				0C7BE7D71F02B273002D9C93 /* QuartzCore.framework in Frameworks */,
+				0C7BE7C11F02ACF3002D9C93 /* CoreGraphics.framework in Frameworks */,
+				0C7BE7CF1F02AD1F002D9C93 /* libresolv.tbd in Frameworks */,
+				0C7BE7CD1F02AD17002D9C93 /* UserNotifications.framework in Frameworks */,
+				0C7BE7C51F02ACFE002D9C93 /* UIKit.framework in Frameworks */,
+				0C7BE7D51F02B1DB002D9C93 /* AMapSearchKit.framework in Frameworks */,
+				0C7BE7D41F02B1DB002D9C93 /* AMapFoundationKit.framework in Frameworks */,
+				0C7BE7C31F02ACF9002D9C93 /* Foundation.framework in Frameworks */,
+				0C7BE7D31F02B1DB002D9C93 /* MAMapKit.framework in Frameworks */,
+				0C7BE7BB1F02ACD2002D9C93 /* CoreFoundation.framework in Frameworks */,
+				0C7BE7B91F02ACCB002D9C93 /* CFNetwork.framework in Frameworks */,
+				0C7BE7B71F02ABA3002D9C93 /* jpush-ios-3.0.5.a in Frameworks */,
 				9D9ED8ECADE74713C0CEE953 /* Pods_driverapp.framework in Frameworks */,
+				0C7BE7B61F02ABA3002D9C93 /* jcore-ios-1.1.3.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -164,6 +234,10 @@
 		0C1E4B3A1F01531100B50C65 /* Library */ = {
 			isa = PBXGroup;
 			children = (
+				0C7BE7D01F02B1DB002D9C93 /* MAMapKit.framework */,
+				0C7BE7D11F02B1DB002D9C93 /* AMapFoundationKit.framework */,
+				0C7BE7D21F02B1DB002D9C93 /* AMapSearchKit.framework */,
+				0C7BE7B21F02ABA3002D9C93 /* Lib */,
 				0C1E4B611F015B8F00B50C65 /* 布局坐标类库 */,
 			);
 			path = Library;
@@ -321,6 +395,16 @@
 			path = viewcontroller;
 			sourceTree = "<group>";
 		};
+		0C7BE7B21F02ABA3002D9C93 /* Lib */ = {
+			isa = PBXGroup;
+			children = (
+				0C7BE7B31F02ABA3002D9C93 /* jcore-ios-1.1.3.a */,
+				0C7BE7B41F02ABA3002D9C93 /* jpush-ios-3.0.5.a */,
+				0C7BE7B51F02ABA3002D9C93 /* JPUSHService.h */,
+			);
+			path = Lib;
+			sourceTree = "<group>";
+		};
 		1922A3C763BF2CC27754AF25 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -333,6 +417,24 @@
 		D49ADB7DF68BE66D7812F7C4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				0C7BE7E11F02B307002D9C93 /* GLKit.framework */,
+				0C7BE7DF1F02B2C3002D9C93 /* libc++.tbd */,
+				0C7BE7DD1F02B2B7002D9C93 /* libstdc++.6.0.9.tbd */,
+				0C7BE7DB1F02B2A4002D9C93 /* JavaScriptCore.framework */,
+				0C7BE7D81F02B280002D9C93 /* CoreLocation.framework */,
+				0C7BE7D61F02B273002D9C93 /* QuartzCore.framework */,
+				0C7BE7CE1F02AD1F002D9C93 /* libresolv.tbd */,
+				0C7BE7CC1F02AD17002D9C93 /* UserNotifications.framework */,
+				0C7BE7CA1F02AD0F002D9C93 /* AdSupport.framework */,
+				0C7BE7C81F02AD0A002D9C93 /* libz.tbd */,
+				0C7BE7C61F02AD03002D9C93 /* Security.framework */,
+				0C7BE7C41F02ACFE002D9C93 /* UIKit.framework */,
+				0C7BE7C21F02ACF9002D9C93 /* Foundation.framework */,
+				0C7BE7C01F02ACF3002D9C93 /* CoreGraphics.framework */,
+				0C7BE7BE1F02ACEA002D9C93 /* SystemConfiguration.framework */,
+				0C7BE7BC1F02ACD9002D9C93 /* CoreTelephony.framework */,
+				0C7BE7BA1F02ACD2002D9C93 /* CoreFoundation.framework */,
+				0C7BE7B81F02ACCB002D9C93 /* CFNetwork.framework */,
 				7A06B8576AF4C251D28F6204 /* Pods_driverapp.framework */,
 			);
 			name = Frameworks;
@@ -596,10 +698,34 @@
 			baseConfigurationReference = 24C40752A6431D6DE05DEA2A /* Pods-driverapp.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/driverapp/Library",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/driverapp/driver_PrefixHeader.pch";
 				INFOPLIST_FILE = driverapp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/driverapp/Library/Lib",
+				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-framework",
+					"\"AFNetworking\"",
+					"-framework",
+					"\"MBProgressHUD\"",
+					"-framework",
+					"\"MJExtension\"",
+					"-framework",
+					"\"MJRefresh\"",
+					"-framework",
+					"\"Masonry\"",
+					"-framework",
+					"\"SDWebImage\"",
+					"-ObjC",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.untrip.driverapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -610,10 +736,34 @@
 			baseConfigurationReference = ACB4690C9AD18A11AA7E32D3 /* Pods-driverapp.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/driverapp/Library",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/driverapp/driver_PrefixHeader.pch";
 				INFOPLIST_FILE = driverapp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/driverapp/Library/Lib",
+				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-framework",
+					"\"AFNetworking\"",
+					"-framework",
+					"\"MBProgressHUD\"",
+					"-framework",
+					"\"MJExtension\"",
+					"-framework",
+					"\"MJRefresh\"",
+					"-framework",
+					"\"Masonry\"",
+					"-framework",
+					"\"SDWebImage\"",
+					"-ObjC",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.untrip.driverapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
