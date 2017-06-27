@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "27DB2E76ED36B9069E983C0CBF95DE96290B6CF7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4DD8927E0A7980C063DC74867F418E239EBC1208" : 9223372036854775807,
+    "27DB2E76ED36B9069E983C0CBF95DE96290B6CF7" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AC45F7C5-2E95-47E0-A4AD-AF215BA9BABD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4DD8927E0A7980C063DC74867F418E239EBC1208" : "",
+    "27DB2E76ED36B9069E983C0CBF95DE96290B6CF7" : "driverapp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "driverapp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "driverapp.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Gavinhuangzhikai\/driverapp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "27DB2E76ED36B9069E983C0CBF95DE96290B6CF7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Gavinhuangzhikai\/YunDianEmail.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4DD8927E0A7980C063DC74867F418E239EBC1208"
+    }
+  ]
+}
